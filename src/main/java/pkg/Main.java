@@ -24,7 +24,7 @@ public class Main {
             logger.info(RHYME_MARKER, "When he nothing shines upon,");
             logger.warn(GIBBERISH_MARKER, "Domdom, lalala.");
             logger.debug("Twinkle, twinkle, all the night.");
-            Thread.sleep(3500);
+            Thread.sleep(3000);
 
             ThreadContext.clearMap();
         }
