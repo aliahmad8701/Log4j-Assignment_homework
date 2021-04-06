@@ -1,0 +1,10 @@
+13:56:56.503 [pkg.Main.main()] INFO  pkg.Main - Up above the world so high, - iteration step: 1
+13:56:56.510 [pkg.Main.main()] DEBUG pkg.Main - Twinkle, twinkle, all the night. - iteration step: 1
+13:56:59.515 [pkg.Main.main()] INFO  pkg.Main - Up above the world so high, - iteration step: 2
+13:56:59.520 [pkg.Main.main()] DEBUG pkg.Main - Twinkle, twinkle, all the night. - iteration step: 2
+13:57:02.525 [pkg.Main.main()] INFO  pkg.Main - Up above the world so high, - iteration step: 3
+13:57:02.530 [pkg.Main.main()] DEBUG pkg.Main - Twinkle, twinkle, all the night. - iteration step: 3
+13:57:05.534 [pkg.Main.main()] INFO  pkg.Main - Up above the world so high, - iteration step: 4
+13:57:05.540 [pkg.Main.main()] DEBUG pkg.Main - Twinkle, twinkle, all the night. - iteration step: 4
+13:57:08.545 [pkg.Main.main()] INFO  pkg.Main - Up above the world so high, - iteration step: 5
+13:57:08.547 [pkg.Main.main()] DEBUG pkg.Main - Twinkle, twinkle, all the night. - iteration step: 5
