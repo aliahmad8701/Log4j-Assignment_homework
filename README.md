@@ -24,3 +24,9 @@ Log messages written to the console and log files must contain the current itera
 
 A separate `FileAppender` must be configured such that messages logged during the curfew hours (i.e., between 20:00 and 05:00) must be written to a separate file. This requires a properly configured [`TimeFilter`](https://elearning.unideb.hu/mod/assign/code>https://logging.apache.org/log4j/2.x/manual/filters.html#TimeFilter</code).
 
+# Implementation Notes:
+
+- Iterations are limited to 10 with a delay of 3 seconds
+- 4 Logs files from the first run are added.
+	- Rhyme, Gibberish, Marker-notfound and Curfew-time.
+
