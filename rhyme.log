@@ -1,0 +1,50 @@
+12:47:00.120 [pkg.Main.main()] INFO  pkg.Main - Twinkle, twinkle, little star, - iteration step: 0
+12:47:00.125 [pkg.Main.main()] DEBUG pkg.Main - How I wonder what you are. - iteration step: 0
+12:47:00.127 [pkg.Main.main()] DEBUG pkg.Main -  Like a diamond in the sky. - iteration step: 0
+12:47:00.127 [pkg.Main.main()] DEBUG pkg.Main - When the blazing sun is gone, - iteration step: 0
+12:47:00.128 [pkg.Main.main()] INFO  pkg.Main - When he nothing shines upon, - iteration step: 0
+12:47:03.633 [pkg.Main.main()] INFO  pkg.Main - Twinkle, twinkle, little star, - iteration step: 1
+12:47:03.634 [pkg.Main.main()] DEBUG pkg.Main - How I wonder what you are. - iteration step: 1
+12:47:03.637 [pkg.Main.main()] DEBUG pkg.Main -  Like a diamond in the sky. - iteration step: 1
+12:47:03.638 [pkg.Main.main()] DEBUG pkg.Main - When the blazing sun is gone, - iteration step: 1
+12:47:03.638 [pkg.Main.main()] INFO  pkg.Main - When he nothing shines upon, - iteration step: 1
+12:47:07.140 [pkg.Main.main()] INFO  pkg.Main - Twinkle, twinkle, little star, - iteration step: 2
+12:47:07.141 [pkg.Main.main()] DEBUG pkg.Main - How I wonder what you are. - iteration step: 2
+12:47:07.143 [pkg.Main.main()] DEBUG pkg.Main -  Like a diamond in the sky. - iteration step: 2
+12:47:07.145 [pkg.Main.main()] DEBUG pkg.Main - When the blazing sun is gone, - iteration step: 2
+12:47:07.145 [pkg.Main.main()] INFO  pkg.Main - When he nothing shines upon, - iteration step: 2
+12:47:10.647 [pkg.Main.main()] INFO  pkg.Main - Twinkle, twinkle, little star, - iteration step: 3
+12:47:10.648 [pkg.Main.main()] DEBUG pkg.Main - How I wonder what you are. - iteration step: 3
+12:47:10.652 [pkg.Main.main()] DEBUG pkg.Main -  Like a diamond in the sky. - iteration step: 3
+12:47:10.652 [pkg.Main.main()] DEBUG pkg.Main - When the blazing sun is gone, - iteration step: 3
+12:47:10.653 [pkg.Main.main()] INFO  pkg.Main - When he nothing shines upon, - iteration step: 3
+12:47:14.154 [pkg.Main.main()] INFO  pkg.Main - Twinkle, twinkle, little star, - iteration step: 4
+12:47:14.154 [pkg.Main.main()] DEBUG pkg.Main - How I wonder what you are. - iteration step: 4
+12:47:14.155 [pkg.Main.main()] DEBUG pkg.Main -  Like a diamond in the sky. - iteration step: 4
+12:47:14.156 [pkg.Main.main()] DEBUG pkg.Main - When the blazing sun is gone, - iteration step: 4
+12:47:14.156 [pkg.Main.main()] INFO  pkg.Main - When he nothing shines upon, - iteration step: 4
+12:47:17.657 [pkg.Main.main()] INFO  pkg.Main - Twinkle, twinkle, little star, - iteration step: 5
+12:47:17.659 [pkg.Main.main()] DEBUG pkg.Main - How I wonder what you are. - iteration step: 5
+12:47:17.662 [pkg.Main.main()] DEBUG pkg.Main -  Like a diamond in the sky. - iteration step: 5
+12:47:17.662 [pkg.Main.main()] DEBUG pkg.Main - When the blazing sun is gone, - iteration step: 5
+12:47:17.663 [pkg.Main.main()] INFO  pkg.Main - When he nothing shines upon, - iteration step: 5
+12:47:21.164 [pkg.Main.main()] INFO  pkg.Main - Twinkle, twinkle, little star, - iteration step: 6
+12:47:21.165 [pkg.Main.main()] DEBUG pkg.Main - How I wonder what you are. - iteration step: 6
+12:47:21.169 [pkg.Main.main()] DEBUG pkg.Main -  Like a diamond in the sky. - iteration step: 6
+12:47:21.169 [pkg.Main.main()] DEBUG pkg.Main - When the blazing sun is gone, - iteration step: 6
+12:47:21.170 [pkg.Main.main()] INFO  pkg.Main - When he nothing shines upon, - iteration step: 6
+12:47:24.671 [pkg.Main.main()] INFO  pkg.Main - Twinkle, twinkle, little star, - iteration step: 7
+12:47:24.672 [pkg.Main.main()] DEBUG pkg.Main - How I wonder what you are. - iteration step: 7
+12:47:24.675 [pkg.Main.main()] DEBUG pkg.Main -  Like a diamond in the sky. - iteration step: 7
+12:47:24.676 [pkg.Main.main()] DEBUG pkg.Main - When the blazing sun is gone, - iteration step: 7
+12:47:24.676 [pkg.Main.main()] INFO  pkg.Main - When he nothing shines upon, - iteration step: 7
+12:47:28.177 [pkg.Main.main()] INFO  pkg.Main - Twinkle, twinkle, little star, - iteration step: 8
+12:47:28.179 [pkg.Main.main()] DEBUG pkg.Main - How I wonder what you are. - iteration step: 8
+12:47:28.182 [pkg.Main.main()] DEBUG pkg.Main -  Like a diamond in the sky. - iteration step: 8
+12:47:28.183 [pkg.Main.main()] DEBUG pkg.Main - When the blazing sun is gone, - iteration step: 8
+12:47:28.183 [pkg.Main.main()] INFO  pkg.Main - When he nothing shines upon, - iteration step: 8
+12:47:31.685 [pkg.Main.main()] INFO  pkg.Main - Twinkle, twinkle, little star, - iteration step: 9
+12:47:31.686 [pkg.Main.main()] DEBUG pkg.Main - How I wonder what you are. - iteration step: 9
+12:47:31.688 [pkg.Main.main()] DEBUG pkg.Main -  Like a diamond in the sky. - iteration step: 9
+12:47:31.690 [pkg.Main.main()] DEBUG pkg.Main - When the blazing sun is gone, - iteration step: 9
+12:47:31.691 [pkg.Main.main()] INFO  pkg.Main - When he nothing shines upon, - iteration step: 9

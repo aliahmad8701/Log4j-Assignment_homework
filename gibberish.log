@@ -1,0 +1,30 @@
+12:47:00.125 [pkg.Main.main()] WARN  pkg.Main - Bram dam dala, Wogolala, bamba - iteration step: 0
+12:47:00.127 [pkg.Main.main()] FATAL pkg.Main - Hickory, dickory, dock. - iteration step: 0
+12:47:00.130 [pkg.Main.main()] WARN  pkg.Main - Domdom, lalala. - iteration step: 0
+12:47:03.635 [pkg.Main.main()] WARN  pkg.Main - Bram dam dala, Wogolala, bamba - iteration step: 1
+12:47:03.638 [pkg.Main.main()] FATAL pkg.Main - Hickory, dickory, dock. - iteration step: 1
+12:47:03.639 [pkg.Main.main()] WARN  pkg.Main - Domdom, lalala. - iteration step: 1
+12:47:07.142 [pkg.Main.main()] WARN  pkg.Main - Bram dam dala, Wogolala, bamba - iteration step: 2
+12:47:07.144 [pkg.Main.main()] FATAL pkg.Main - Hickory, dickory, dock. - iteration step: 2
+12:47:07.145 [pkg.Main.main()] WARN  pkg.Main - Domdom, lalala. - iteration step: 2
+12:47:10.649 [pkg.Main.main()] WARN  pkg.Main - Bram dam dala, Wogolala, bamba - iteration step: 3
+12:47:10.652 [pkg.Main.main()] FATAL pkg.Main - Hickory, dickory, dock. - iteration step: 3
+12:47:10.653 [pkg.Main.main()] WARN  pkg.Main - Domdom, lalala. - iteration step: 3
+12:47:14.155 [pkg.Main.main()] WARN  pkg.Main - Bram dam dala, Wogolala, bamba - iteration step: 4
+12:47:14.155 [pkg.Main.main()] FATAL pkg.Main - Hickory, dickory, dock. - iteration step: 4
+12:47:14.156 [pkg.Main.main()] WARN  pkg.Main - Domdom, lalala. - iteration step: 4
+12:47:17.660 [pkg.Main.main()] WARN  pkg.Main - Bram dam dala, Wogolala, bamba - iteration step: 5
+12:47:17.662 [pkg.Main.main()] FATAL pkg.Main - Hickory, dickory, dock. - iteration step: 5
+12:47:17.663 [pkg.Main.main()] WARN  pkg.Main - Domdom, lalala. - iteration step: 5
+12:47:21.166 [pkg.Main.main()] WARN  pkg.Main - Bram dam dala, Wogolala, bamba - iteration step: 6
+12:47:21.169 [pkg.Main.main()] FATAL pkg.Main - Hickory, dickory, dock. - iteration step: 6
+12:47:21.170 [pkg.Main.main()] WARN  pkg.Main - Domdom, lalala. - iteration step: 6
+12:47:24.673 [pkg.Main.main()] WARN  pkg.Main - Bram dam dala, Wogolala, bamba - iteration step: 7
+12:47:24.675 [pkg.Main.main()] FATAL pkg.Main - Hickory, dickory, dock. - iteration step: 7
+12:47:24.676 [pkg.Main.main()] WARN  pkg.Main - Domdom, lalala. - iteration step: 7
+12:47:28.180 [pkg.Main.main()] WARN  pkg.Main - Bram dam dala, Wogolala, bamba - iteration step: 8
+12:47:28.183 [pkg.Main.main()] FATAL pkg.Main - Hickory, dickory, dock. - iteration step: 8
+12:47:28.184 [pkg.Main.main()] WARN  pkg.Main - Domdom, lalala. - iteration step: 8
+12:47:31.687 [pkg.Main.main()] WARN  pkg.Main - Bram dam dala, Wogolala, bamba - iteration step: 9
+12:47:31.689 [pkg.Main.main()] FATAL pkg.Main - Hickory, dickory, dock. - iteration step: 9
+12:47:31.692 [pkg.Main.main()] WARN  pkg.Main - Domdom, lalala. - iteration step: 9
