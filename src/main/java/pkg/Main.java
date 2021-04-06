@@ -1,5 +1,5 @@
 package pkg;
-
+import java.util.Scanner;
 import org.apache.logging.log4j.*;
 
 public class Main {
@@ -8,10 +8,13 @@ public class Main {
     private static final Marker GIBBERISH_MARKER = MarkerManager.getMarker("GIBBERISH_MARKER");
 
     public static void main(String[] args) throws InterruptedException {
+	        
+	System.out.println("Enter the number of Iterations: ");
+	Scanner input = new Scanner(System.in);
+    	int iteration = input.nextInt();
+	input.close();
 
-        int iteration = Integer.parseInt(args[0]);
-
-        for (int i = 0; i<iteration; i++){
+        for (int i = 1; i<=iteration; i++){
             ThreadContext.put("iteration", String.valueOf(i));
 
             logger.info(RHYME_MARKER, "Twinkle, twinkle, little star,");

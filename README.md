@@ -1,7 +1,5 @@
 # Log4j Assignment
-![Alt text](https://lh3.googleusercontent.com/proxy/66ka38lx2tjuPxEX_3WLUssSz9wX47uYsKWMstGNGbJDceZCd6XDALR6XWUZcHBV3_GWYu4DSttR7wMjp05t-D_8wsuXYIe6w-ErNqB1TulJRgXP63Y?raw=true "Title")
-
-
+<img src="http://theblogreaders.com/wp-content/uploads/2016/01/log4j.jpg" width="500" height="300" />
 The assignment demonstrates the use of the following two features of [Apache Log4j 2](https://logging.apache.org/log4j/2.x/):
 
 -   [Markers](https://logging.apache.org/log4j/2.x/manual/markers.html)
@@ -26,7 +24,9 @@ A separate `FileAppender` must be configured such that messages logged during th
 
 # Implementation Notes:
 
-- Iterations are limited to 10 with a delay of 3 seconds
+- Iterations are limited to the command line Input.
+- Iteration delay is 3 seconds.
 - 4 Logs files from the first run are added.
 	- Rhyme, Gibberish, Marker-notfound and Curfew-time.
+
 
